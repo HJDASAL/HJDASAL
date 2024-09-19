@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hannah
+- 👀 I’m interested in a lot of things
+- 🌱 I’m currently learning ASP.Net
+- 📫 You can reach me if you can see me
+- 😄 Pronouns: she/her
